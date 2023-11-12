@@ -1,8 +1,3 @@
-'''
-Copyright (C) 2021 DROOD OP - All Rights Reserved
-
-
-
 
 import os
 import sys
